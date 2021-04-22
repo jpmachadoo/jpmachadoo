@@ -58,4 +58,5 @@
 <p>
   <img alt="laravel" src="https://img.shields.io/badge/-Laravel-fb503b?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="node" src="https://img.shields.io/badge/-NodeJS-68a063?style=flat-square&logo=node.js&logoColor=black" />
+  <img alt="typescript" src="https://img.shields.io/badge/-Typescript-007acc?style=flat-square&logo=typescript&logoColor=black" />
 </p>
