@@ -7,9 +7,6 @@
 
 ### Find me!
 <p>
-  <a href="https://github.com/jpmachadoo">
-    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/jpmachadoo">
-  </a>
 
   <a href="https://www.linkedin.com/in/jpmachado99/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jpmachado99/">
