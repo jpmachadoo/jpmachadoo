@@ -41,12 +41,20 @@
 
 ### Technologies I use every day
 <p>
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-a6120d?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="dotnet" src="https://img.shields.io/badge/-.Net-6C3483?style=flat-square&logo=dotnet&logoColor=white" />
+  <img alt="oracle" src="https://img.shields.io/badge/-Oracle-0064a5?style=flat-square&logo=oracle&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-f34f29?style=flat-square&logo=git&logoColor=white" />
+</p>
+<br>
+
+### Technologies that I already worked with
+<p>
   <img alt="php" src="https://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=php&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white" />
   <img alt="pg" src="https://img.shields.io/badge/-PostgreSQL-0064a5?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-f34f29?style=flat-square&logo=git&logoColor=white" />
 </p>
 <br>
 
