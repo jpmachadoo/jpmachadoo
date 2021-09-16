@@ -1,7 +1,7 @@
 ### Hey! My name is João Pedro, I live in Pindamonhangaba/SP, Brazil and I'm 21 
 
 - Graduated in Analysis and Systems Development.
-- Currently working on my company's maintenance and development team.
+- Currently working in a B2B Ecommerce project as full-stack developer.
 - Always seeking for new challenges!
 <br><br>
 
