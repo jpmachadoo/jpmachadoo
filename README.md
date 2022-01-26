@@ -42,7 +42,7 @@
 ### Technologies I use every day
 <p>
   <img alt="angular" src="https://img.shields.io/badge/-Angular-a6120d?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="dotnet" src="https://img.shields.io/badge/-.Net-6C3483?style=flat-square&logo=dotnet&logoColor=white" />
+  <img alt="dotnet" src="https://img.shields.io/badge/-.NetCore-6C3483?style=flat-square&logo=Csharp&logoColor=white" />
   <img alt="oracle" src="https://img.shields.io/badge/-Oracle-0064a5?style=flat-square&logo=oracle&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-f34f29?style=flat-square&logo=git&logoColor=white" />
 </p>
@@ -61,7 +61,7 @@
 ### What I'm studying
 
 <p>
-  <img alt="laravel" src="https://img.shields.io/badge/-Laravel-fb503b?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-a6120d?style=flat-square&logo=angular&logoColor=white" />
   <img alt="node" src="https://img.shields.io/badge/-NodeJS-68a063?style=flat-square&logo=node.js&logoColor=black" />
   <img alt="typescript" src="https://img.shields.io/badge/-Typescript-007acc?style=flat-square&logo=typescript&logoColor=black" />
 </p>
