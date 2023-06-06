@@ -23,19 +23,6 @@
 
 <br>
 
-### My stats here
-<p >
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=jpmachadoo&show_icons=true&theme=dracula"
-    />
-  </a>
-</p>
-
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpmachadoo&show_icons=true&locale=en&layout=compact&theme=dracula" alt="stats" />
-</p>
 
 <br>
 
